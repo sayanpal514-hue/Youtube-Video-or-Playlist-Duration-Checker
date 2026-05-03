@@ -98,7 +98,7 @@ python playlist_durationchecker.py
 
 OR
 
-python sayan.py "https://www.youtube.com/watch?v=..."
+python sayan.py "url"
 
 ---
 
