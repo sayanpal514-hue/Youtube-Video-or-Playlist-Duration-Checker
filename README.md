@@ -60,4 +60,4 @@ Duration : 02:56:40  (10600 seconds)
 - **yt-dlp**: The engine used for metadata extraction.
 
 ---
-Developed with ❤️ by [Your Name/Handle]
+Developed with ❤️ by [Sayan Pal]
